@@ -1156,7 +1156,6 @@ body {
 
     top: 990px;
   }
-  
 
   .disb2 {
     display: flex;
@@ -1188,19 +1187,17 @@ body {
   }
 
   .cards {
- 
     align-items: center;
     height: 988px;
   }
 
-  .box12{
+  .box12 {
     margin: 40px;
   }
   .card1 {
-
     width: 369px;
     height: 474px;
-    margin-left:  25px;
+    margin-left: 25px;
     top: 4px;
     background: #ebf0ee;
     border: 1px solid #d0d9d4;
@@ -1217,7 +1214,7 @@ body {
     display: grid;
     grid-template-rows: auto auto auto auto;
     justify-items: center;
-    width:100%;
+    width: 100%;
     height: 222px;
     background: #fff;
     border: 1px solid #d0d9d4;
@@ -1266,7 +1263,7 @@ body {
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
-}
+  }
   #ct {
     justify-self: center;
     font-family: "Inter", sans-serif;
@@ -1979,19 +1976,18 @@ body {
 
   .getIn::before {
     content: "";
-    background:
-      linear-gradient(
-        45deg,
-        #f00,
-        #ff7300,
-        #fffb00,
-        #48ff00,
-        #00ffd5,
-        #002bff,
-        #7a00ff,
-        #ff00c8,
-        #f00
-      );
+    background: linear-gradient(
+      45deg,
+      #f00,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00c8,
+      #f00
+    );
     position: absolute;
     top: -2px;
     left: -2px;
